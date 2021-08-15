@@ -11,9 +11,9 @@ and I am constantly striving to learn more and brush up on my prior skills. <br>
 - CUDA
 
 # Currently Learning
-As of August 2021, I am going to start working on the [Propulsion](https://github.com/rottenroddan/Propulsion) project soon. It is a project that started with
-learning how to use CUDA in c++, but since then has evolved into a numerical library that handles dynamically creating Matrices/Tensors and performing various 
-numerical operations on these objects using CUDA or your cpu. Other than that, I have been dabbling with AngularJS and NodeJS.
+As of August 2021, I am going to start working on the [Propulsion](https://github.com/rottenroddan/Propulsion) project soon. It is a project that I started with
+learning how to use CUDA in c++, but since then has evolved into a numerical library. It mainly handles dynamically creating Matrices/Tensors and performing various 
+numerical operations on these objects using CUDA or your cpu. Other than that, I have been dabbling with AngularJS and NodeJS. 
 
 # Future Colab?
 I would love to collaborate on a CUDA or even an OpenCL project. I don't have a formal education with either yet, but I do have a strong interest in mostly \
