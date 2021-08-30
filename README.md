@@ -16,7 +16,7 @@ learning how to use CUDA in c++, but since then has evolved into a numerical lib
 numerical operations on these objects using CUDA or your cpu. Other than that, I have been dabbling with AngularJS and NodeJS. 
 
 # Future Colab?
-I would love to collaborate on a CUDA or even an OpenCL project. I don't have a formal education with either yet, but I do have a strong interest in mostly \
+I would love to collaborate on a CUDA or even an OpenCL project. I don't have a formal education with either yet, but I do have a strong interest in mostly
 anything performance related. Also interested in using Tensorflow in a future project as well. 
 
 # Reach Me Via Email
