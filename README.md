@@ -15,6 +15,8 @@ As of August 2021, I am going to start working on the [Propulsion](https://githu
 learning how to use CUDA in c++, but since then has evolved into a numerical library. It mainly handles dynamically creating Matrices/Tensors and performing various 
 numerical operations on these objects using CUDA or your cpu. Other than that, I have been dabbling with AngularJS and NodeJS. 
 
+Recently finished up on a Market Scanner using TDAmeritrade's API to generate stock data. You can see more [here.](https://github.com/rottenroddan/MarketStdDeviationCalculator) 
+
 # Future Colab?
 I would love to collaborate on a CUDA or even an OpenCL project. I don't have a formal education with either yet, but I do have a strong interest in mostly
 anything performance related. Also interested in using Tensorflow in a future project as well. 
