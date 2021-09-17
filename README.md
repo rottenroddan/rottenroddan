@@ -2,7 +2,8 @@
 # My names Steven.
 
 I'm an entry level software developer looking to expand my skills on various topics. I would argue I'm interested in many different topics, 
-and I am constantly striving to learn more and brush up on my prior skills. <br>
+and I am constantly striving to learn more and brush up on my prior skills. I have a great foundation in numerical mathematics, and thus want to
+persue a Masters in the future with <br>
 
 # Topics of Interest 
 - Algorithms and Data Structures
@@ -28,15 +29,3 @@ anything performance related. Also interested in using Tensorflow in a future pr
 
 # Reach Me Via Email
 If you're interested in collaborating or have any questions, feel free to email me at: [stevenroddan30@gmail.com](stevenroddan30@gmail.com)
-
-<!---
-- 👋 Hi, I’m @rottenroddan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-rottenroddan/rottenroddan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
