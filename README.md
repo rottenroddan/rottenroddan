@@ -17,7 +17,7 @@ learning program with CUDA in C++, but since then has evolved into a numerical l
 
 Recently finished up on a Market Scanner using TDAmeritrade's API to generate stock data. You can see more [here.](https://github.com/rottenroddan/MarketStdDeviationCalculator) 
 
-# List of Projects I'm most interested in
+# List of Projects
 - [Propulsion](https://github.com/rottenroddan/Propulsion)
 - [Market Standard Deviation Calculator](https://github.com/rottenroddan/MarketStdDeviationCalculator)
 - [Red Black Binary Search Tree](https://github.com/rottenroddan/redBlackTree)
